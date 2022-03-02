@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "yes"?>
+<company>
+	<heading>Sid-Clicks</heading>
+	<employee>
+		<name>Name :- Siddhesh Vharamble</name>
+		<ID>ID:- 001</ID>
+		<BG>Blood Group:- O+</BG>
+		<department>Department :- Photography</department>
+		<experience>Experience :- 6 years</experience>
+	</employee>
+	<employee>
+		<name>Name :-  Abhishesk Rath</name>
+		<ID>ID:- 002</ID>
+		<BG>Blood Group:- B+</BG>
+		<department>Department :- Marketing</department>
+		<experience>Experience :- 3 years</experience>
+	</employee>
+	<employee>
+		<name>Name :-  Riya Shah</name>
+		<ID>ID:- 003</ID>
+		<BG>Blood Group:- O+</BG>
+		<department>Department :- Videography</department>
+		<experience>Experience :- 5 years</experience>
+	</employee>
+	<employee>
+		<name>Name :- Sakshi Tendulkar</name>
+		<ID>ID:- 004</ID>
+		<BG>Blood Group:- O+</BG>
+		<department>Department :- Manager</department>
+		<experience>Experience :- 6 years</experience>
+	</employee>
+	<note>
+		<to>Diksha</to>
+		<from>Sakshi</from>
+		<heading>Reminder</heading>
+		<body>Don't forget me this weekend!</body>
+	</note>
+</company>
